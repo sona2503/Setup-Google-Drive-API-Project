@@ -5,11 +5,12 @@
 - Pastikan **Google Drive** ada di sistem.
 
 ## Langkah-langkah :
-1. Masuk ke layanan Google console pada link :https://console.cloud.google.com/
+1. Masuk ke layanan Google console pada link       
+   :https://console.cloud.google.com/
+2. Pilih Project yang sudah ada/untuk menambah project baru :
+   ![Tampilan gambar](images/gambar%201.png)
 
-![Tampilan Halaman Admin](images/gambar%201.jpg)
-
-2. **Wali Kelas** username dan password:
+4. **Wali Kelas** username dan password:
    ```sh
    username : Mahda SP.d
    password : mahda
