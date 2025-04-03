@@ -16,11 +16,15 @@
 5. Klik Project yang sudah dibuat :
    ![Tampilan gambar](images/gambar%204.png)
 6. Setelah berada di project yang dipilih klik Dashboard :
-   ![Tampilan gambar](images/gambar%204.png)
+   ![Tampilan gambar](images/gambar%205.png)
 7. Pada menu liblary cari "google drive api" :
-   ![Tampilan gambar](images/gambar%204.png)
+   ![Tampilan gambar](images/gambar%207.png)
+8. Klik Google Drive API :
+   ![Tampilan gambar](images/gambar%208.png)
+9. Aktifkan Google Drive API :
+   ![Tampilan gambar](images/gambar%209.png)
 
-9. **Wali Kelas** username dan password:
+11. **Wali Kelas** username dan password:
    ```sh
    username : Mahda SP.d
    password : mahda
