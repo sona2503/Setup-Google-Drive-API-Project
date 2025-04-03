@@ -28,7 +28,7 @@
 11. Tambah OAuth client ID :
     ![Tampilan gambar](images/gambar%2012.png)
 12. Klik "Configure consent screen" :
-    ![Tampilan gambar](images/gambar%206.png)
+    ![Tampilan gambar](images/gambar%2010.png)
 13. Tambahkan informasi App dan isi sesuai instruksi :
     ![Tampilan gambar](images/gambar%2013.png)
 
