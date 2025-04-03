@@ -40,6 +40,7 @@
     ![Tampilan gambar](images/gambar%2018.png)
 17. Copy Client Id dan Client secret untuk melakukan pengujian :
     ![Tampilan gambar](images/gambar%2016.png)
+**Langkah-langkah pengujian** klin link ini :https://github.com/sona2503/Pengujian-dengan-oauthplayground.git
 
 
 
