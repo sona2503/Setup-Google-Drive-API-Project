@@ -23,8 +23,12 @@
    ![Tampilan gambar](images/gambar%208.png)
 9. Aktifkan Google Drive API :
    ![Tampilan gambar](images/gambar%209.png)
+10. Selanjutnya pada menu Credentials Tambah Credential baru :
+    ![Tampilan gambar](images/gambar%2011.png)
+11. Tambah OAuth client ID :
+    ![Tampilan gambar](images/gambar%2012.png)
 
-11. **Wali Kelas** username dan password:
+13. **Wali Kelas** username dan password:
    ```sh
    username : Mahda SP.d
    password : mahda
