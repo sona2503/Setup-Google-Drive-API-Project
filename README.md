@@ -31,6 +31,15 @@
     ![Tampilan gambar](images/gambar%2010.png)
 13. Tambahkan informasi App dan isi sesuai instruksi :
     ![Tampilan gambar](images/gambar%2013.png)
+14. Tambahkan aplikasi yang akan disambungkan pada project sesuai dengan    aplikasi yang sedang anda bangun pada menu Client :
+    ![Tampilan gambar](images/gambar%2015.png)
+15. Isi url Authorize dengan link ini
+    :https://developers.google.com/oauthplayground
+    ![Tampilan gambar](images/gambar%2017.png)
+16. Tambahkan users untuk menguji project pada menu Audience :
+    ![Tampilan gambar](images/gambar%2018.png)
+17. Copy Client Id dan Client secret untuk melakukan pengujian :
+    ![Tampilan gambar](images/gambar%2016.png)
 
 
 
