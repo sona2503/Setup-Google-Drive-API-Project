@@ -9,8 +9,16 @@
    :https://console.cloud.google.com/
 2. Pilih Project yang sudah ada/untuk menambah project baru :
    ![Tampilan gambar](images/gambar%201.png)
+3. Klik NEW PROJECT :
+   ![Tampilan gambar](images/gambar%202.png)
+4. Buat nama project :
+   ![Tampilan gambar](images/gambar%203.png)
+5. Klik Project yang sudah dibuat :
+   ![Tampilan gambar](images/gambar%204.png)
+6. Setelah berada di project yang dipilih klik Dashboard :
+   ![Tampilan gambar](images/gambar%205.png)
 
-4. **Wali Kelas** username dan password:
+8. **Wali Kelas** username dan password:
    ```sh
    username : Mahda SP.d
    password : mahda
