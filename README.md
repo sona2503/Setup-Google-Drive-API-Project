@@ -27,20 +27,11 @@
     ![Tampilan gambar](images/gambar%2011.png)
 11. Tambah OAuth client ID :
     ![Tampilan gambar](images/gambar%2012.png)
+12. Klik "Configure consent screen" :
+    ![Tampilan gambar](images/gambar%206.png)
+13. Tambahkan informasi App dan isi sesuai instruksi :
+    ![Tampilan gambar](images/gambar%2013.png)
 
-13. **Wali Kelas** username dan password:
-   ```sh
-   username : Mahda SP.d
-   password : mahda
-Tampilan Wali Kelas :
-![Tampilan Halaman Wali Kelas](images/gambar%202.jpg)
-   
-3. **Orang Tua/Wali** username dan password:
-   ```sh
-   username : Mahda SP.d
-   password : mahda
-Tampilan Orang Tua :
-![Tampilan Halaman Admin](images/gambar%203.jpg)
 
 
 
