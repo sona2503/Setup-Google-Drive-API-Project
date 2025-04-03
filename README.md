@@ -16,9 +16,11 @@
 5. Klik Project yang sudah dibuat :
    ![Tampilan gambar](images/gambar%204.png)
 6. Setelah berada di project yang dipilih klik Dashboard :
-   ![Tampilan gambar](images/gambar%205.png)
+   ![Tampilan gambar](images/gambar%204.png)
+7. Pada menu liblary cari "google drive api" :
+   ![Tampilan gambar](images/gambar%204.png)
 
-8. **Wali Kelas** username dan password:
+9. **Wali Kelas** username dan password:
    ```sh
    username : Mahda SP.d
    password : mahda
