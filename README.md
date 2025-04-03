@@ -4,8 +4,8 @@
 - Pastikan **akun google** ada di sistem.
 - Pastikan **Google Drive** ada di sistem.
 
-## Langkah-langkah
-1. **Admin/Kepala Sekolah** username dan password:
+## Langkah-langkah :
+1. Masuk ke layanan Google console pada link :https://console.cloud.google.com/
 
 ![Tampilan Halaman Admin](images/gambar%201.jpg)
 
