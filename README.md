@@ -7,7 +7,7 @@
 ## Langkah-langkah :
 1. Masuk ke layanan Google console pada link       
    :https://console.cloud.google.com/
-2. Pilih Project yang sudah ada/untuk menambah project baru :
+2. Pilih Project yang sudah ada untuk menambah project baru :
    ![Tampilan gambar](images/gambar%201.png)
 3. Klik NEW PROJECT :
    ![Tampilan gambar](images/gambar%202.png)
